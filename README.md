@@ -1,3 +1,26 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>..
-<p>Welcome to my page! </br> I'm Bayu, Front-End developer from <img src="https://www.flaticon.com/free-icon/indonesia_6157721?term=indonesia&page=1&position=1&origin=search&related_id=6157721" width="13"/> <b>Seto, Indonesia</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. </p>
-<h3>Things I code with</h3>
+<h1 align="center">Hi 👋, I'm M Siddiq Bayu Seto/h1>
+<h3 align="center">Front End developer From Indonesia</h3>
+
+- 🔭 I’m currently working on **Javascript Project**
+
+- 🌱 I’m currently learning **on Skilvul #Tech4Impact and Dian Nuswantoro University**
+
+- 👨‍💻 All of my Design projects are available at 
+
+- 💬 Ask me about **C++, Java, HTML, JS, CSS**
+
+- 📫 How to reach me **skyangel89002@gmail.com**
+
+- 📄 Know about my experiences 
+
+- ⚡ Fun fact **I love to read more and more**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deviantkay&show_icons=true&locale=en&layout=compact" alt="deviantkay" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deviantkay&show_icons=true&locale=en" alt="deviantkay" /></p>
