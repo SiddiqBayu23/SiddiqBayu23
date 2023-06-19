@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm M Siddiq Bayu Seto/h1>
+<h1 align="center">Hi 👋, I'm M Siddiq Bayu Seto</h1>
 <h3 align="center">Front End developer From Indonesia</h3>
 
 - 🔭 I’m currently working on **Javascript Project**
