@@ -1,55 +1,80 @@
 <h1 align="center">Hi 👋, I'm Muhammad Siddiq Bayu Seto</h1>
-<h3 align="center">Front End Developer from Indonesia 🇮🇩</h3>
+<h3 align="center">Frontend Developer | UI/UX Enthusiast | Indonesia 🇮🇩</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=SiddiqBayu23&label=Profile%20views&color=0e75b6&style=flat" alt="SiddiqBayu23" />
+<p align="center">
+Passionate about building clean UI, interactive web apps, and meaningful digital experiences.
 </p>
 
 ---
 
-- 🔭 I’m currently working on **[Javascript Project](https://tracle.netlify.app/)**
-- 🌱 I’m currently learning at **Skilvul #Tech4Impact & Dian Nuswantoro University**
-- 👯 I’m looking to collaborate on **[Tracle Project](https://tracle.netlify.app/)**
-- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/SiddiqBayu23)**
-- 📝 I regularly write articles on **[My Portfolio](https://tpa1webportofolio.netlify.app)**
-- 💬 Ask me about **React & Firebase**
-- 📫 How to reach me **muhammadsiddiqbayuseto574@gmail.com**
-- ⚡ Fun fact: **I think I am funny 😆**
+## 🚀 About Me
+
+- 🔭 Currently building **JavaScript & React Projects**
+- 🌱 Learning **Next.js, UI/UX Design, and Web Performance**
+- 👯 Open to collaborate on **Web & Frontend Projects**
+- 💬 Ask me about **React, Firebase, Tailwind, JavaScript**
+- 📫 Reach me at **muhammadsiddiqbayuseto574@gmail.com**
+- ⚡ Fun Fact: *I turn coffee into code ☕*
 
 ---
 
-## 🌐 Connect with me
+## 🌐 Portfolio & Projects
 
-<p align="left">
-<a href="https://twitter.com/siddiqbay"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30"/></a>
-<a href="https://linkedin.com/in/m-siddiq-bayu-seto"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/></a>
-<a href="https://instagram.com/siddiqbayu23"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/></a>
-<a href="https://www.youtube.com/c/mr.n"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30"/></a>
-<a href="https://discord.gg/Vz8kBPrafn"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30"/></a>
+- 🌍 Portfolio Website  
+  **https://tpa1webportofolio.netlify.app**
+
+- 🧩 Tracle Project  
+  **https://tracle.netlify.app**
+
+- 💻 All Repositories  
+  **https://github.com/SiddiqBayu23**
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,next,nodejs,tailwind,bootstrap,firebase,mysql,git,github,vscode,figma,vue" />
 </p>
 
 ---
 
-## 🛠 Languages and Tools
+## 📌 Highlight Skills
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40"/>
+- Frontend Development
+- Responsive Web Design
+- UI / UX Design
+- REST API Integration
+- Firebase Integration
+- Git Version Control
+- Component-Based Architecture
+- Clean Code & Reusable Components
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/m-siddiq-bayu-seto">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+<a href="https://instagram.com/siddiqbayu23">
+<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+</a>
+<a href="https://twitter.com/siddiqbay">
+<img src="https://skillicons.dev/icons?i=twitter" height="40"/>
+</a>
+<a href="https://discord.gg/Vz8kBPrafn">
+<img src="https://skillicons.dev/icons?i=discord" height="40"/>
+</a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Current Focus
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SiddiqBayu23&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddiqBayu23&layout=compact&theme=dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SiddiqBayu23&theme=dark)
+```text
+• Building scalable frontend architecture
+• Improving UI/UX consistency
+• Learning Next.js & Advanced React
+• Open Source Contribution
