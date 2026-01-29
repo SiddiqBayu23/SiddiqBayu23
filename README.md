@@ -2,7 +2,7 @@
 <h3 align="center">Front End Developer from Indonesia 🇮🇩</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=SiddiqBayu23&label=Profile%20views&color=0e75b6&style=flat" alt="SiddiqBayu23" />
+  <img src="https://komarev.com/ghpvc/?username=siddiqbayu23&label=Profile%20views&color=0e75b6&style=flat" alt="SiddiqBayu23" />
 </p>
 
 <p align="left">
@@ -62,8 +62,8 @@
 
 ## 📊 GitHub Stats
 
-![Bayu GitHub Stats](https://github-readme-stats.vercel.app/api?username=SiddiqBayu23&show_icons=true&theme=tokyonight&v=1)
+![Bayu GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddiqbayu23&show_icons=true&theme=tokyonight&v=1)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddiqBayu23&layout=compact&theme=tokyonight&v=1)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddiqbayu23&layout=compact&theme=tokyonight&v=1)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SiddiqBayu23&theme=tokyonight&v=1)
+![GitHub Streak](https://streak-stats.demolab.com?user=siddiqbayu23&theme=tokyonight&v=1)
