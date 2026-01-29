@@ -12,8 +12,8 @@
 </p>
 
 <p align="left">
-  <a href="https://twitter.com/siddiqbay" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/siddiqbay?logo=twitter&style=for-the-badge" alt="twitter" />
+  <a href="https://twitter.com/SiddiqBay" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/SiddiqBay?logo=twitter&style=for-the-badge" alt="twitter" />
   </a>
 </p>
 
