@@ -2,19 +2,7 @@
 <h3 align="center">Front End Developer from Indonesia 🇮🇩</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=siddiqbayu23&label=Profile%20views&color=0e75b6&style=flat" alt="SiddiqBayu23" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SiddiqBayu23" alt="SiddiqBayu23" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://twitter.com/siddiqbay" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/siddiqbay?logo=twitter&style=for-the-badge" alt="twitter" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=SiddiqBayu23&label=Profile%20views&color=0e75b6&style=flat" alt="SiddiqBayu23" />
 </p>
 
 ---
@@ -26,7 +14,6 @@
 - 📝 I regularly write articles on **[My Portfolio](https://tpa1webportofolio.netlify.app)**
 - 💬 Ask me about **React & Firebase**
 - 📫 How to reach me **muhammadsiddiqbayuseto574@gmail.com**
-- 📄 Know about my experiences **[Portfolio](https://tpa1webportofolio.netlify.app)**
 - ⚡ Fun fact: **I think I am funny 😆**
 
 ---
@@ -53,7 +40,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40"/>
 </p>
@@ -62,8 +48,8 @@
 
 ## 📊 GitHub Stats
 
-![Bayu GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddiqbayu23&show_icons=true&theme=tokyonight&v=1)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SiddiqBayu23&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddiqbayu23&layout=compact&theme=tokyonight&v=1)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddiqBayu23&layout=compact&theme=dark)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=siddiqbayu23&theme=tokyonight&v=1)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SiddiqBayu23&theme=dark)
